@@ -12,10 +12,15 @@
 > 다음 5개 핵심 주제를 다룹니다.
 
 [⚙️운영 체제](https://github.com/hyesuhan/CS-study/tree/main/Operation_System)
+
 [🛜네트워크](https://github.com/hyesuhan/CS-study/tree/main/Network)
+
 [📊데이터베이스](https://github.com/hyesuhan/CS-study/tree/main/DataBase)
+
 [📃자료 구조 및 알고리즘]
+
 [🦓Java](https://github.com/hyesuhan/CS-study/tree/main/Java)
+
 [🌿Spring](https://github.com/hyesuhan/CS-study/tree/main/Spring)
 
 ## 진행 방식 및 정리 가이드
